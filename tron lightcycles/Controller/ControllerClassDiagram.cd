@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Interface Name="Controller.IController" Collapsed="true">
+    <Position X="2" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>IController.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Controller.IControllerMainMenu" Collapsed="true">
+    <Position X="4" Y="0.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAAgAAAAAAAAKAAABAAAAIA=</HashCode>
+      <FileName>IControllerMainMenu.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Controller.IControllerPause" Collapsed="true">
+    <Position X="2" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAIAAAAAgAAAA=</HashCode>
+      <FileName>IControllerPause.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Controller.IGameController" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAIEAAAAAABAAEAAgCAAAAAgAAgACAAAABAQ=</HashCode>
+      <FileName>IGameController.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="Controller.GameEvents" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAAAFAAAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>GameEvents.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

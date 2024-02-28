@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\..\kpo-courseproject-crossyroad\CrossyRoad\CommonMVC\CrossyRoad_Controller\CrossyRoad_Controller.csproj" />
+    <ProjectReference Include="..\..\..\..\kpo-courseproject-crossyroad\CrossyRoad\CommonMVC\CrossyRoad_Model\CrossyRoad_Model.csproj" />
+    <ProjectReference Include="..\..\..\..\kpo-courseproject-crossyroad\CrossyRoad\CommonMVC\CrossyRoad_View\CrossyRoad_View.csproj" />
+    <ProjectReference Include="..\..\..\..\kpo-courseproject-crossyroad\CrossyRoad\Console\CrossyRoad_ConsoleController\CrossyRoad_ConsoleController.csproj" />
+    <ProjectReference Include="..\..\..\..\kpo-courseproject-crossyroad\CrossyRoad\Console\CrossyRoad_ConsoleView\CrossyRoad_ConsoleView.csproj" />
+    <ProjectReference Include="..\..\..\..\kpo-courseproject-crossyroad\CrossyRoad\Test\CrossyRoad_ModelTest\CrossyRoad_ModelTest.csproj" />
+    <ProjectReference Include="..\..\..\..\kpo-courseproject-crossyroad\CrossyRoad\WPF\CrossyRoad_WpfController\CrossyRoad_WpfController.csproj" />
+    <ProjectReference Include="..\..\..\..\kpo-courseproject-crossyroad\CrossyRoad\WPF\CrossyRoad_WpfView\CrossyRoad_WpfView.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="View.ViewBase" Collapsed="true">
+    <Position X="4" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAgAAAAAAAEAAAAAAAAAAAAAAAAAAYAA=</HashCode>
+      <FileName>ViewBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="View.Game.ViewCycleBase" Collapsed="true">
+    <Position X="5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAACCAggAAAAAAAABAAAAAAABAAAAAAAAAAQA=</HashCode>
+      <FileName>Game\ViewCycleBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="View.Game.ViewGameBase" Collapsed="true">
+    <Position X="3" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAEAACAQAAAgAAQAABQAACBAAQIAAAAgAAAAAgAAA=</HashCode>
+      <FileName>Game\ViewGameBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="View.Game.ViewNextLevelInfoBase" Collapsed="true">
+    <Position X="7.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Game\ViewNextLevelInfoBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="View.Instructions.ViewInstructionBase" Collapsed="true">
+    <Position X="3" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Instructions\ViewInstructionBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="View.Menu.ViewMenuBase" Collapsed="true">
+    <Position X="7.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACgAAAAAAAAAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Menu\ViewMenuBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="View.Menu.ViewMenuItemBase" Collapsed="true">
+    <Position X="0.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Menu\ViewMenuItemBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="View.Menu.ViewPauseMenuBase" Collapsed="true">
+    <Position X="7.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Menu\ViewPauseMenuBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="View.Records.ViewNewRecordInputBase" Collapsed="true">
+    <Position X="0.75" Y="4.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAABAAAAAAAIEAAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>Records\ViewNewRecordInputBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="View.Records.ViewTableRecordsBase" Collapsed="true">
+    <Position X="5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>YAAAAAAEAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Records\ViewTableRecordsBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

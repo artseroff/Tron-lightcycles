@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="View.Game.ViewGameBase" Collapsed="true">
+    <Position X="10.5" Y="3" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="View.Game.ViewCycleBase" Collapsed="true">
+    <Position X="6.75" Y="3" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="View.Game.ViewNextLevelInfoBase" Collapsed="true">
+    <Position X="8.5" Y="3" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="View.ViewBase" Collapsed="true">
+    <Position X="10.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="View.Instructions.ViewInstructionBase" Collapsed="true">
+    <Position X="6.5" Y="6" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="View.Menu.ViewMenuBase" Collapsed="true">
+    <Position X="12" Y="6" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="View.Menu.ViewMenuItemBase" Collapsed="true">
+    <Position X="8.75" Y="6" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="View.Menu.ViewPauseMenuBase" Collapsed="true">
+    <Position X="12" Y="7.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="View.Records.ViewNewRecordInputBase" Collapsed="true">
+    <Position X="14.5" Y="6" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="View.Records.ViewTableRecordsBase" Collapsed="true">
+    <Position X="16.75" Y="6" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="ViewWpf.Game.ViewCycleWpf" Collapsed="true">
+    <Position X="6.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAACCAAAIAAAAAAAADQAAAAAABAAAAAAIAAAQA=</HashCode>
+      <FileName>Game\ViewCycleWpf.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ViewWpf.Game.ViewGameWpf" Collapsed="true">
+    <Position X="10.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ANAAECAAAwAAAgAAAgABIBACEFQQIAAAAABCGCAgAAQ=</HashCode>
+      <FileName>Game\ViewGameWpf.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ViewWpf.Game.ViewNextLevelInfoWpf" Collapsed="true">
+    <Position X="8.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Game\ViewNextLevelInfoWpf.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ViewWpf.Game.WpfBrushColorByCellFillCreator" Collapsed="true">
+    <Position X="12.5" Y="1.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgACAAAAAAAABABAAAgAAUAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>Game\WpfBrushColorByCellFillCreator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ViewWpf.SingletonWindow" Collapsed="true">
+    <Position X="16.25" Y="3" Width="1.5" />
+    <NestedTypes>
+      <Class Name="ViewWpf.SingletonWindow.SingletonWindowHolder" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>SingletonWindow.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAACAAAAAA=</HashCode>
+      <FileName>SingletonWindow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ViewWpf.Instructions.ViewInstructionWpf" Collapsed="true">
+    <Position X="6.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Instructions\ViewInstructionWpf.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ViewWpf.Menu.ViewMenuItemWpf" Collapsed="true">
+    <Position X="8.75" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAEAAAAAAEAAgBAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Menu\ViewMenuItemWpf.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ViewWpf.Menu.ViewMenuMainWpf" Collapsed="true">
+    <Position X="10.25" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAgAAAAAAAAAAABAAAAAAAAAiAACAAAA=</HashCode>
+      <FileName>Menu\ViewMenuMainWpf.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ViewWpf.Menu.ViewPauseWpf" Collapsed="true">
+    <Position X="12" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAIAAAABAAAABAAAACAAAAAAA=</HashCode>
+      <FileName>Menu\ViewPauseWpf.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ViewWpf.Records.ViewNewRecordInputWpf" Collapsed="true">
+    <Position X="14.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAgAAAAAAAAAAEAEAAAAAQAACQAAAgAA=</HashCode>
+      <FileName>Records\ViewNewRecordInputWpf.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ViewWpf.Records.ViewTableRecordsWpf" Collapsed="true">
+    <Position X="16.75" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAABAgAAAAAAAABAEAAAAAAAAAACAAAAAEA=</HashCode>
+      <FileName>Records\ViewTableRecordsWpf.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="ViewWpf.IWpfKeyPressableView">
+    <Position X="13.5" Y="3" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IWpfKeyPressableView.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

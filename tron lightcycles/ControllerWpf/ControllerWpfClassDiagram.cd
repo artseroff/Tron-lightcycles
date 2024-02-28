@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ControllerWpf.Game.GameControllerWpf" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAIEAAAACAAAAEAAhKAAAAAAAAgCAAAAAAAQ=</HashCode>
+      <FileName>Game\GameControllerWpf.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ControllerWpf.instructions.ControllerInstructionsWpf" Collapsed="true">
+    <Position X="5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAIAIAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Instructions\ControllerInstructionsWpf.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ControllerWpf.Menu.ControllerMenuMainWpf" Collapsed="true">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAgAACCAAAAAAAAAAAAAIAAAAAAACAAgAAAAAAA=</HashCode>
+      <FileName>Menu\ControllerMenuMainWpf.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ControllerWpf.Menu.ControllerPauseMenuWpf" Collapsed="true">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAQAAAAAAAAAACYAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Menu\ControllerPauseMenuWpf.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ControllerWpf.Records.ControllerTableRecordsWpf" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAIAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Records\ControllerTableRecordsWpf.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ControllerWpf.Records.NewRecordControllerWpf" Collapsed="true">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAABAAIAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Records\NewRecordControllerWpf.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ControllerWpf.WpfControllerBase" Collapsed="true">
+    <Position X="2.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAEAAAACAAAAAAAIAABAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>WpfControllerBase.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

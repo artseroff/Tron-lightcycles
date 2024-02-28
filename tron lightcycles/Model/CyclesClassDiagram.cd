@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Model.Game.Cycles.ConcreteCycle">
+    <Position X="8.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAASAAAAAIAQEIACAAAAAQAAAAEAACAAIAAAgIAAgQA=</HashCode>
+      <FileName>Game\Cycles\ConcreteCycle.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.158" />
+  </Class>
+  <Class Name="Model.Game.Cycles.Decorator.AcceleratedCycleDecorator">
+    <Position X="0.5" Y="6.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAIAAAAQAAAAgAAAAAAAAAAAEAEAAAAAAAAA=</HashCode>
+      <FileName>Game\Cycles\Decorator\AcceleratedCycleDecorator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Model.Game.Cycles.Decorator.BaseCycleDecorator">
+    <Position X="3.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAICQAIACAAAAAAAAAAAAAAAAIAAAgAAAgQA=</HashCode>
+      <FileName>Game\Cycles\Decorator\BaseCycleDecorator.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Model.Game.Cycles.Decorator.CycleWithAIDecorator">
+    <Position X="3" Y="6.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAJAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAE=</HashCode>
+      <FileName>Game\Cycles\Decorator\CycleWithAIDecorator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Model.Game.Cycles.Decorator.PlayerCycleDecorator">
+    <Position X="5.5" Y="6.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABIAAAAAAAAAAAAIAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Game\Cycles\Decorator\PlayerCycleDecorator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Model.Game.Cycles.ICycle">
+    <Position X="6.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAIAQAIACAAAAAAAAAAAAAAAAIAAAgAAAgQA=</HashCode>
+      <FileName>Game\Cycles\ICycle.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
