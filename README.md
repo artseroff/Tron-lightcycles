@@ -41,55 +41,57 @@ __Алгоритм__: если счетчик клеток, оставшихся
         В самом начале игры для желтого бота при движении вверх расстояние составило бы 9 клеток, при движении вправо 10 клеток, при движении вниз 1 клетку. Поэтому было выбрано движение вправо. Аналогично для других ботов.
     </p>
      <p align="center" width="100%">
-        <img width="60%" src="https://github.com/user-attachments/assets/3a3dc9e4-c84b-4cd2-a8ad-bf66dfba89e1">
+        <img width="60%" src="https://github.com/user-attachments/assets/b03bdf83-d35f-4047-a785-453515337e5b">
     </p>
     <p align="center">Рисунок 1 – поиск максимально длинного свободного пути</p>
     <p>
         На рисунке 2 показано продолжение игрового процесса, представленного на рисунке 1. Голубой мотоцикл – пользовательский. Допустим, что число, равное случайному числу от 0 до половины величины найденного максимального свободного пути (по рисунку 10, эта величина составляет 7), равно 2. Желтый мотоцикл двигался вправо две клетки, затем в клетке, отмеченной красным происходил поиск максимально длинного свободного пути, после чего мотоцикл повернул на 90 градусов влево и стал двигаться вверх. 
     </p> 
     <p align="center" width="100%">
-        <img width="60%" src="https://github.com/user-attachments/assets/ba8acf8e-cc77-4a2f-9930-39cfde73704a">
+        <img width="60%" src="https://github.com/user-attachments/assets/55b6b375-2afe-4fbb-8ca2-cfe4cb682bc7">
     </p>
     <p align="center">Рисунок 2 – визуализация алгоритма изменения направления движения бота</p>
 </details>
 
 ## Скриншоты интерфейса 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/fc59b93b-e789-4b69-b66e-f1c7acad30fe">
+  <img width="60%" src="https://github.com/user-attachments/assets/6a17de7a-61c6-4882-966c-3d8e4a954fbd">
   <p>Макеты всех уровней</p>
 </div>
 
-__WPF__
+
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/1384b00f-080a-4994-9e14-84d01cef417e">
+  <p><b>WPF</b></p>
+  <img width="50%" src="https://github.com/user-attachments/assets/ad034007-4445-49c2-a48a-6899d46d656c">
   <p>Главное меню (WPF)</p>
 
-  <img src="https://github.com/user-attachments/assets/3fee5c5e-d084-42b9-a7f7-22dea9cb4bbd">
+  <img width="50%" src="https://github.com/user-attachments/assets/7286fbdb-9421-4a0f-bf7f-90bdcd957762">
   <p>Первый уровень игрового окна (WPF)</p>
 
-  <img  src="https://github.com/user-attachments/assets/343b8e79-7229-4b61-8269-a4f11e952e5a">
+  <img width="50%" src="https://github.com/user-attachments/assets/2d06d8f1-1273-41c7-ae47-aa25af394ead">
   <p>Завершение уровня (WPF)</p>
 
-  <img  src="https://github.com/user-attachments/assets/8e3dd321-dda5-47e0-9cf1-143b9c458f66">
+  <img width="50%" src="https://github.com/user-attachments/assets/fe10b8d9-a788-4e69-88ef-b4be5769523a">
   <p>Четвертый уровень (WPF)</p>
 
-  <img  src="https://github.com/user-attachments/assets/0357a56f-25fe-4654-b17f-9a6044080e63">
+  <img width="50%" src="https://github.com/user-attachments/assets/da2da55d-70e7-495d-a56d-575d4478eadf">
   <p>Победа (WPF)</p>
   
 </div>
 
-__Псевдографика__
+
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/1caeb1cf-ee3f-4598-9c4b-00493e1cd48a">
+  <p><b>Псевдографика</b></p>
+  <img width="50%" src="https://github.com/user-attachments/assets/9384982c-abf0-4ff8-81e4-1cee35bd6e8e">
   <p>Главное меню (Псевдографика)</p>
-
-  <img src="https://github.com/user-attachments/assets/22adce87-44f9-4a22-a4ac-9857b3f7fea3">
+    
+  <img width="50%" src="https://github.com/user-attachments/assets/15401614-5ad5-4b20-96f4-1a40602d61bf">
   <p>Второй уровень (Псевдографика)</p>
-
-  <img src="https://github.com/user-attachments/assets/57e4aa5e-bd23-47ff-8076-34724be938f3">
+  
+  <img width="50%" src="https://github.com/user-attachments/assets/80a6421f-89ae-4172-bdbf-0766e5723d57">
   <p>Третий уровень (Псевдографика)</p>
   
-  <img src="https://github.com/user-attachments/assets/ad0c4a3c-42f6-4ac1-b116-4f103c7cf846">
+  <img width="50%" src="https://github.com/user-attachments/assets/d582f475-c59b-4af3-a76c-dc7838ca0e1a">
   <p>Пятый уровень (Псевдографика)</p>
 
 </div>
